@@ -1,0 +1,26 @@
+[
+    {
+        "question":"What is your name?",
+        "choice1":"ahmed",
+        "choice2":"mohamed",
+        "choice3":"ali",
+        "choice4":"belal",
+        "answer": 4
+    },
+    {
+        "question":"What is your job?",
+        "choice1":"doctor",
+        "choice2":"accountant",
+        "choice3":"programmer",
+        "choice4":"teacher",
+        "answer": 3
+    },
+    {
+        "question":"How old are you?",
+        "choice1":"16",
+        "choice2":"17",
+        "choice3":"18",
+        "choice4":"19",
+        "answer": 4
+    }
+]
